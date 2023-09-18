@@ -1,4 +1,4 @@
-# Hello, I'm Bright Spectre 👋
+# Hi, I'm Bright Spectre 👋
 
 I'm a passionate software engineer, web developer, cyber threat intelligence analyst, and mobile app developer. I love building innovative solutions that make an impact. Here's a glimpse of what I bring to the digital world:
 
@@ -10,7 +10,7 @@ I'm a passionate software engineer, web developer, cyber threat intelligence ana
 - **Cybersecurity:** Threat intelligence analysis, penetration testing
 - **Tools & Frameworks:** Django, Flask, Express.js, Git
 - **Database Management:** MySQL, MongoDB, PostgreSQL
-- **DevOps:** Docker, Google Cloud, AWS, Azure
+- **DevOps:** Docker, Google Cloud, AWS, Azure, Machine Learning
 
 <!-- ## 🚀 Projects
 
