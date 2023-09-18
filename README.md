@@ -4,9 +4,9 @@ I'm a passionate software engineer, web developer, cyber threat intelligence ana
 
 ## 🔧 Technologies & Skills
 
-- **Languages:** Bash, Python, JavaScript, Fluter
+- **Languages:** Python, JavaScript, Flutter
 - **Web Development:** HTML, CSS, JavaScript, Nuxtjs, Node.js
-- **Mobile App Development:** Android (Java, Kotlin), iOS (Swift)
+- **Mobile App Development:** Android (Java, Kotlin, Flutter), iOS (Swift)
 - **Cybersecurity:** Threat intelligence analysis, penetration testing
 - **Tools & Frameworks:** Django, Flask, Express.js, Git
 - **Database Management:** MySQL, MongoDB, PostgreSQL
@@ -28,7 +28,7 @@ I enjoy sharing my insights and experiences through writing. Check out my [Blog]
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](LinkedIn Link)
+<!-- - LinkedIn: [Your LinkedIn Profile](LinkedIn Link) -->
 - Email: [frimpsbathrive@gmail.com](mailto:frimpsbathrive@gmail.com)
 
 I'm always open to collaboration and new opportunities. If you have a project idea, want to discuss technology, or just want to say hi, feel free to reach out.
