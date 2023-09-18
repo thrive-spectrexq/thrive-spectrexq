@@ -12,13 +12,13 @@ I'm a passionate software engineer, web developer, cyber threat intelligence ana
 - **Database Management:** MySQL, MongoDB, PostgreSQL
 - **DevOps:** Docker, Google Cloud, AWS, Azure
 
-## 🚀 Projects
+<!-- ## 🚀 Projects
 
 Here are some of the projects I've worked on:
 
 1. [Project Name](Link): A brief description of the project and its significance.
 2. [Project Name](Link): A brief description of the project and its significance.
-3. [Project Name](Link): A brief description of the project and its significance.
+3. [Project Name](Link): A brief description of the project and its significance. -->
 
 Feel free to explore my [GitHub repositories](https://github.com/thrive-spectrexq) for more projects and code samples.
 
@@ -29,7 +29,7 @@ I enjoy sharing my insights and experiences through writing. Check out my [Blog]
 ## 📫 Let's Connect
 
 - LinkedIn: [Your LinkedIn Profile](LinkedIn Link)
-- Email: [Your Email Address](mailto:frimpsbathrive@gmail.com)
+- Email: [frimpsbathrive@gmail.com](mailto:frimpsbathrive@gmail.com)
 
 I'm always open to collaboration and new opportunities. If you have a project idea, want to discuss technology, or just want to say hi, feel free to reach out.
 
