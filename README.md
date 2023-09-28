@@ -4,11 +4,11 @@ I'm a passionate software engineer, web developer, cyber threat intelligence ana
 
 ## 🔧 Technologies & Skills
 
-- **Languages:** Python, JavaScript, Flutter
-- **Web Development:** HTML, CSS, JavaScript, Nuxtjs, Node.js
+- **Languages:** Python, JavaScript, C/C++, Bash, Php
+- **Web Development:** HTML, CSS, JavaScript, Nuxtjs, Vue.js
 - **Mobile App Development:** Android (Java, Kotlin, Flutter), iOS (Swift)
 - **Cybersecurity:** Threat intelligence analysis, penetration testing
-- **Tools & Frameworks:** Django, Flask, Express.js, Git
+- **Tools & Frameworks:** Django, Flask, Express.js, React, Git
 - **Database Management:** MySQL, MongoDB, PostgreSQL
 - **DevOps:** Docker, Google Cloud, AWS, Azure, Machine Learning
 
