@@ -24,7 +24,7 @@ Feel free to explore my [GitHub repositories](https://github.com/thrive-spectrex
 
 ## 📚 Blog
 
-I enjoy sharing my insights and experiences through writing. Check out my [Blog](Link) for articles on software development, cybersecurity, and tech trends.
+I enjoy sharing my insights and experiences through writing. Check out my [Blog](https://tailwind-css-starter-blog-mauve-mu.vercel.app/) for articles on software development, cybersecurity, and tech trends.
 
 ## 📫 Let's Connect
 
