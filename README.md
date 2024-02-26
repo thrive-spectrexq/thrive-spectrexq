@@ -4,11 +4,9 @@ I'm a passionate software engineer, web developer, cyber threat intelligence ana
 
 ## 🔧 Technologies & Skills
 
-- **Languages:** Python, JavaScript, Bash
-- **Web Development:** HTML, CSS, Reactjs, Nuxtjs, Vue.js
+- **Languages:** C, Python, JavaScript(Reactjs), Bash, PHP
 - **Mobile App Development:** Android (Kotlin, Flutter)
-- **Cybersecurity:** Threat intelligence analysis, penetration testing
-- **Tools & Frameworks:** Django, Flask, React, Git
+- **Cybersecurity:** Threat Intelligence Analysis, PenTest
 - **Database Management:** MySQL, MongoDB, PostgreSQL
 - **DevOps:** Docker, Google Cloud, AWS, Azure, AI/Machine Learning
 
@@ -20,11 +18,11 @@ Here are some of the projects I've worked on:
 2. [Project Name](Link): A brief description of the project and its significance.
 3. [Project Name](Link): A brief description of the project and its significance. -->
 
-Feel free to explore my [GitHub repositories](https://github.com/thrive-spectrexq) for more projects and code samples.
+<!-- Feel free to explore my [GitHub repositories](https://github.com/thrive-spectrexq) for more projects and code samples.
 
 ## 📚 Blog
 
-I enjoy sharing my insights and experiences through writing. Check out my [Blog](https://tailwind-css-starter-blog-mauve-mu.vercel.app/) for articles on software development, cybersecurity, and tech trends.
+I enjoy sharing my insights and experiences through writing. Check out my [Blog](https://tailwind-css-starter-blog-mauve-mu.vercel.app/) for articles on software development, cybersecurity, and tech trends. -->
 
 ## 📫 Let's Connect
 
