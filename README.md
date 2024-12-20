@@ -1,6 +1,4 @@
-### Empowering The Digital World Through Innovation
-
-![Typing Animation](https://your-image-url.com/typing-animation.gif)
+### Empowering the digital world through cutting-edge innovation
 
 ### Languages and Tools:
 
