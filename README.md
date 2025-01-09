@@ -1,6 +1,6 @@
-### Empowering the digital world through cutting-edge innovation
+### Empowering our world through cutting-edge innovation
 
-### Languages and Tools:
+### Tech Stack:
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
