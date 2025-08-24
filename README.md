@@ -35,5 +35,4 @@
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Google Cloud](https://skillicons.dev/icons?i=gcp)
 ![Microsoft Azure](https://skillicons.dev/icons?i=azure)
-![Heroku](https://skillicons.dev/icons?i=heroku)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
