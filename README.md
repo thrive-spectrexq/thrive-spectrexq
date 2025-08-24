@@ -1,4 +1,4 @@
-### Empowering our world through cutting-edge innovation
+### Powering Innovation with GenAI
 
 ### Tech Stack:
 
