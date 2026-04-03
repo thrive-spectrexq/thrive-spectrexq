@@ -1,4 +1,4 @@
-### Powering Innovation with GenAI
+### Imagine. Build. Scale.
 
 ### Tech Stack:
 
