@@ -1,7 +1,12 @@
 ### Imagine. Build. Scale.
 
-### Tech Stack:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Full+Stack+%7C+Backend+%7C+Mobile+%7C+Cloud;JavaScript+%7C+TypeScript+%7C+Python+%7C+Go+%7C+Rust;Crafting+scalable+systems+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header" width="100%"/>
+
+### Tech Stack:
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Python](https://skillicons.dev/icons?i=py)
